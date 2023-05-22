@@ -1,0 +1,232 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title> Welcome | Faithy Digital and Stationery </title>
+<meta name="author" content="Bob DeeVine">
+<meta name="description" content="This is the official website of Faithy Digital and Stationery">
+<link rel=stylesheet href="com-website.css">
+<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/css/bootstrap.min.css">
+<script src=https://code.jquery.com/jquery-3.3.1.slim.min.js> </script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/js/bootstrap.min.js"></script>
+<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+</head>    
+    
+<body>
+<section id="nav-bar">
+
+<nav class="navbar navbar-expand-lg navbar-light">
+<a class="navbar-brand" href="#"><img src="com_images/logo.png"> </a>
+<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+<i class="fa fa-bars" ></i>
+</button>
+<div class="collapse navbar-collapse" id="navbarNav"> 
+<ul class="navbar-nav ml-auto">
+<li class="nav-item">
+<a class="nav-link" href="#top"> HOME</a>
+</li>
+<li class="nav-item active">
+<a class="nav-link" href="#services"> OUR SERVICES </a>
+</li>
+<li class="nav-item active">
+<a class="nav-link" href="#about-us"> ABOUT US</a>
+</li>   
+<li class="nav-item active">
+<a class="nav-link" href="#social-media"> CONTACT </a>
+</li>
+</ul>    
+</div>
+</nav>
+    
+</section>
+  
+ <!------------- BANNER SECTION ---------------------------> 
+<section id="banner">
+<div class="container">
+<div class="row">
+<div class="col-md-6">
+<img src="com_images/home2.png" class="img-fluid"> 
+</div>
+<div class="col-md-6">
+<p class="promo-title"> YOUR ONE STOP <br> BUSINESS SOLUTION</p>
+<p> Welcome to Faithy Digital and Stationery, <br>
+    ....the best computer cafe  solution to your different business needs, from document preparation to graphics desigining and lots more.... </p>
+<div class="learn-more"> <a href="#social-media"><i class="fa fa-arrow-right" class="learn-btn" ></i> LEARN MORE </a></div>
+</div>    
+   
+</div>
+</div>    
+
+    
+<img src="com_images/wave1.png" class="bottom-img">    
+</section>
+
+<!-----------SERVICES---------->
+<section id="services">
+<div class="container text-center">
+<h1 class="title"> WHAT WE DO ?</h1>
+<div class="row text-center">
+<div class="col-md-4 services">
+<img src="com_images/service1.png" class="services-img">
+    <h4> Graphics Designing </h4>
+    <p> Design your wedding cards, programmes, letter-headings, logos, chuhrch flyers, posters, banners and also billboards with us...and get the best </p>
+</div>
+<div class="col-md-4 services">
+<img src="com_images/service2.png" class="services-img">
+    <h4> Document Preparation </h4>
+    <p> We have you covered for any kind of document preparation, whether typing, printing, scanning, binding of documents, laminating and lots more </p>
+</div>
+<div class="col-md-4 services">
+<img src="com_images/service3.png" class="services-img">
+    <h4> Online Services</h4>
+    <p> We offer good network that can help you have easy and quick online job applications and tests. </p>
+</div>
+<div id="servicePt"> 
+<div class="row text-center">
+<div class="col-md-4 services">
+<img src="com_images/service4.png" class="services-img">
+    <h4> Prepare your Invoices</h4>
+    <p> We prepare invoices that you can use to help get your business organized and running smoothly </p>
+</div>   
+<div class="col-md-4 services">
+<img src="com_images/service5.png" class="services-img">
+    <h4> Design Your Receipts</h4>
+    <p> Make quality business or school receipts with us today at affordable prices   </p>
+</div>     
+<div class="col-md-4 services">
+<img src="com_images/service6.png" class="services-img">
+    <h4> Prepare your Memos</h4>
+    <p> Get an organized and presentable memo from us that can serve your very needs </p>
+</div>  
+
+<div class="col-md-4 services">
+<img src="com_images/service7.png" class="services-img">
+    <h4> Design your Websites</h4>
+    <p> We can design a very responsive and beautiful website for your company, church or school </p>
+</div>  
+
+<div class="col-md-4 services">
+<img src="com_images/service9.png" class="services-img">
+    <h4> Design and Print ID Cards</h4>
+    <p> We can help you design and print quality ID cards for office, school or church use </p>
+</div> 
+
+<div class="col-md-4 services">
+<img src="com_images/service8.png" class="services-img">
+    <h4> Enroll for Computer Classes</h4>
+    <p> Get tutored and introduced into the computer and digital world for a cheap fee </p>
+</div>     
+</div>    
+</div>    
+<button type="button" id="serviceButton" class="btn btn-primary">  All Services</button>
+</div>
+</div>   
+</section>
+    
+<!-----------ABOUT US------------->
+<section id="about-us">
+<div class="container">
+<h1 class="title text-center"> WHY CHOOSE US ? </h1> 
+<div class="row">
+<div class="col-md-6 about-us">
+<img src="com_images/network.png" class="img-fluid">
+</div>
+<div class="col-md-6 about-us">
+<p class="about-title"> Our Policies</p>
+<ul>
+<li> We place our clients first</li>
+<li> We believe in doing business with honesty</li>
+<li> We deliver your job on time</li>
+<li> We respect your privacy</li>
+<li> We help you improve your business with quality designs</li>
+<li> We can help you unveil your business to the world</li>
+</ul>
+</div>
+</div>
+</div>
+</section>
+
+<!------------CONTACT US VIA SOCIAL MEDIA-------->
+<section id="social-media">
+<div class="container text-center">
+<p class="p"> Contact Us  </p> 
+<p> You can reach us through mail, whatsapp or any other of our social media handles </p>
+<div class="social-icons"> 
+<a href="https://www.facebook.com/faithy.digital.and.stationery.31"><img src="com_images/facebook.png"></a><a href="#"><img src="com_images/twitter.png"></a>
+<a href="#"><img src="com_images/linkedin.png"></a><a href="https://wa.me/message/2XLLK5Y6UQX3H1/"><img src="com_images/whatsapp.png"></a><a href="mailto:faithydigital@gmail.com"><img src="com_images/gmail.png"></a>
+<a href="#"><img src="com_images/instagram-logo.png">
+</a>
+</div>
+</div>
+</section>
+  
+  <!---------------FOOTER SECTION----------->
+<section id="footer">
+<img src="com_images/wave2.png" class="footer-img"> 
+<div class="container">
+<div class="row"> 
+<div class="col-md-5 footer-box">
+<img src="com_images/logo.png" class="logo">
+<p> Lorem ipsum dolor sit amet, consecteteur adipsscing elit, eleifend faucibus est sollicitundin ut.Lorem ipsum dolor sit amet, consecteteur adipsscing elit, eleifend faucibus est sollicitundin ut. </p>
+</div>
+<div class="col-md-5 footer-box">
+<p><b> YOU CAN REACH US @</b></p> 
+<p><i class="fa fa-map-marker"></i>
+42 Apa Motor, Odani, PH</p>
+<p><i class="fa fa-phone"></i> +234 806 000 9483</p>
+<p><i class="fa fa-envelope-o"></i> faithydigital@gmail.com</p>
+</div>
+    
+<div class="col-md-5 footer-box">
+<p><b><a href="#top">HOME </a> </b></p>
+<p><b><a href="#services"> OUR SERVICES</a> </b></p> 
+<p><b><a href=#about-us> ABOUT US</a> </b></p>
+    <p><b><a href="#social-media"> CONTACT US</a></b></p> 
+</div>
+     
+<div class="col-md-5 footer-box">
+<p><b> SEND US AN EMAIL </b></p>
+<input type="email" class="form-control" placeholder="Your Email">
+<textarea type="text" height="50px"  class="form-control" placeholder="Your Message Here"> </textarea> 
+<a href="mailto:faithydigital@gmail.com"><button type="button" class="btn btn-primary" > Send Your Message </button></a>
+</div>
+</div>
+<hr>
+<p class="copyright"> &copy; Copyright 2023 - Website by<br> <b><a href="https://www.facebook.com/bob.deevine.31" target="_blank"> Bob Deevine </a> - Faithy Digital and Stationery All Rights Reserved</b></p>
+</div>
+</section>
+    
+ <!-------------SMOOTH SCROLL------------------>
+<script src="smooth-scroll.js"></script>
+ <script>
+	var scroll = new SmoothScroll('a[href*="#"]');
+</script>   
+
+    
+<!--------------FORM VALIDATION------------->    
+    
+<script src="jquery.validate.min.js"> </script>  
+ 
+     
+    
+<!-----------------SHOW AND HIDE FORM------------------->    
+<script>    
+   const btn = document.getElementById('serviceButton');
+
+btn.addEventListener('click', () => {
+  const form = document.getElementById('servicePt');
+
+  if (form.style.display === 'none') {
+    // 👇️ this SHOWS the form
+    form.style.display = 'block';
+  } else {
+    // 👇️ this HIDES the form
+    form.style.display = 'none';
+  }
+});
+</script>
+ 
+</body>
+</html>
